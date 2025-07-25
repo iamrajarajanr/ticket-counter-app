@@ -30,3 +30,12 @@ console.log(nam)
 console.log(typeof 12)
 console.log(typeof "12")
 
+console.log("THe sum is " + add + sub)
+
+let thestring ="12"
+let thenumber = 12
+console.log(typeof thestring + thenumber)
+
+
+
+
