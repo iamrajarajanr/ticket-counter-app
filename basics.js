@@ -76,3 +76,22 @@ function print(){
 print()
 
 
+function printMessage(){
+    button.textContent = "changes text"
+    button.style.fontSize = "30px"
+    button.style.backgroundColor="blue"
+    button.style.color="white"
+    console.log("btn clicked")
+}
+
+
+
+function increase(){
+let likes = 0
+    likes = likes + 1
+    console.log("likes")
+}
+
+
+
+
