@@ -32,10 +32,19 @@ console.log(typeof "12")
 
 console.log("THe sum is " + add + sub)
 
+//---------------------------------
+
 let thestring ="12"
 let thenumber = 12
 console.log(typeof thestring + thenumber)
 
+//--------------------------------
 
+let score=0
+console.log(score)
 
+// score updated to 3
+
+score=3
+console.log(score)
 
