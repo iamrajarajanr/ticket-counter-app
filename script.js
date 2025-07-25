@@ -15,3 +15,9 @@ function save(){
     // countEl.textContent = count - count
     countEl.textContent = 0
 }
+
+let decEl = document.getElementById("dec-btn")
+
+function decrement(){
+    countEl.textContent = countEl.textContent - 1
+}
