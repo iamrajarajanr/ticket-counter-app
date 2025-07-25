@@ -24,5 +24,5 @@ console.log("The Answer is",mul)
 console.log("The Answer is",mod)
 
 
-console.log(name)
-let name ="raj"
+console.log(nam)
+let nam ="raj"
