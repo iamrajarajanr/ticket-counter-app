@@ -1,6 +1,7 @@
-// let button = document.getElementById("increment-btn")
-console.log("hello")
+let countEl = document.getElementById("count-el")
+let count = 0
 
-// function increment {
-//     console.log("h1")
-// }
+function increment(){
+    count = count + 1
+    countEl.textContent = count
+}
