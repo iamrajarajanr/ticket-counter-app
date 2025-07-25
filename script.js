@@ -9,4 +9,3 @@ function printMessage(){
     button.style.color="brown"
     console.log("btn clicked")
 }
-
