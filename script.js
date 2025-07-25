@@ -23,3 +23,6 @@ console.log("The Answer is",div)
 console.log("The Answer is",mul)
 console.log("The Answer is",mod)
 
+
+console.log(name)
+let name ="raj"
