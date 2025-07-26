@@ -28,3 +28,12 @@ function decrement(){
     countEl.textContent = count
 
 }
+
+
+
+
+
+
+
+
+
