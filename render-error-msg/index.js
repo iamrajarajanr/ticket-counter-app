@@ -31,6 +31,5 @@ function purchase(){
 
 
 
-
 removed
 }
