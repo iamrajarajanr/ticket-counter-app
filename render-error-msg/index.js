@@ -25,6 +25,5 @@ function purchase(){
 
 
 
-
 removed
 }
